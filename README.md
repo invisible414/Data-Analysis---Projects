@@ -1,2 +1,2 @@
 # Data-Analysis---Projects
-Welcome to My Portfolio Wolrd
+Welcome to My Portfolio World
